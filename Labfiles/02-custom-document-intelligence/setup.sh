@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Set variable values
-subscription_id="YOUR_SUBSCRIPTION_ID"
-resource_group="YOUR_RESOURCE_GROUP"
-location="YOUR_LOCATION_NAME"
+subscription_id="MOC Subscription-lod50472621"
+resource_group="ResourceGroup1"
+location="eastus"
 expiry_date="2024-01-01T00:00:00Z"
 
 # Get random numbers to create unique resource names
